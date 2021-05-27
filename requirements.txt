@@ -1,0 +1,8 @@
+pytest
+scikit-learn
+scipy
+numpy
+pandas
+mlxtend
+energyusage
+backtester
